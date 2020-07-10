@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Data Science and Deep Learning
 - 📫 How to reach me: Through Linkedln and Github
 - 😄 Pronouns: Bunty
-- ⚡ Fun fact: Love to sleep and eat most of the time 😁
+- ⚡ Fun fact: Love to sleep and eat in empty time 😁
