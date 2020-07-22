@@ -1,6 +1,7 @@
+## <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="24px">
 
-## Hi there 👋, my name is Subbhashit Mukherjee.
-I am currently completing my B.E. from BMS institute of technology and management🚀.I am a Data Science enthusiast 👨‍💻 and love to learn different topics in it.I have a good experience in backend with node,Mongo and Express.
+
+My name is subbhashit Mukherjee and i am currently completing my B.E. from BMS institute of technology and management🚀.I am a Data Science enthusiast 👨‍💻 and love to learn different topics in it.I have a good experience in backend with node,Mongo and Express.
 
 ![Web 1920 – 1](https://user-images.githubusercontent.com/43717493/87220340-84d4f300-c380-11ea-8da9-dc82fec3abe2.png)
 
