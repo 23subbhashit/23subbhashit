@@ -3,7 +3,7 @@
 
 My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS institute of technology and management🚀.I am a Data Science enthusiast 👨‍💻 and love to learn different topics in it.I have a good experience in backend with node,Mongo and Express.
 
-![Web 1920 – 1](https://user-images.githubusercontent.com/43717493/87220340-84d4f300-c380-11ea-8da9-dc82fec3abe2.png)
+![Web 1920 – 1](https://user-images.githubusercontent.com/43717493/88258617-2abc2200-ccde-11ea-9c69-dd72f0458dc4.png)
 
 - 🔭 I’m currently working on Vue projects
 - 🌱 I’m currently learning Vue
