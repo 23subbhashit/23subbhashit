@@ -28,7 +28,14 @@ My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS i
 
 [![Twitter Badge](https://img.shields.io/badge/-SMukhkherjee-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SMukhkherjee)](https://twitter.com/SMukhkherjee) [![Linkedin Badge](https://img.shields.io/badge/-subbhashitmukherjee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=subbhashit-mukherjee)](https://www.linkedin.com/in/subbhashit-mukherjee-71849a148/) [![Gmail Badge](https://img.shields.io/badge/-subbhashitmukherjee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:subbhashitmukherjee@gmail.com)](mailto:subbhashitmukherjee@gmail.com)
 
+
+
 ## My Status
 [![23subbhashit github stats](https://github-readme-stats.vercel.app/api?username=23subbhashit&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/23subbhashit/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23subbhashit&theme=radical&hide=glsl,python" />
+</a>
 
 ![visitors](https://komarev.com/ghpvc/?username=23subbhashit)
