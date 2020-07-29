@@ -38,6 +38,5 @@ My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS i
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23subbhashit&theme=radical&hide=glsl,python" />
 </a>
 
-
-
+<hr>
 ![visitors](https://komarev.com/ghpvc/?username=23subbhashit)
