@@ -7,10 +7,10 @@ My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS i
 
 ![Web 1920 – 1](https://user-images.githubusercontent.com/43717493/88258617-2abc2200-ccde-11ea-9c69-dd72f0458dc4.png)
 
-- 🔭 I’m currently working on Vue projects
+- 🔭 I’m currently working on Covid19 Tracker
 - 🌱 I’m currently learning Vue
 - 👯 I’m looking to collaborate on Kaggle
-- 🤔 I’m looking for help with Vue learning paths
+- 🤔 I’m looking for help with REST API
 - 💬 Ask me about Data Science and Deep Learning
 - 📫 How to reach me: Through Linkedln and Github
 - 😄 Pronouns: Bunty
