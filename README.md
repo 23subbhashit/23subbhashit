@@ -1,20 +1,12 @@
 ## <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="24px">
 
 
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS institute of technology and management🚀.I am a Data Science enthusiast 👨‍💻 and love to learn different topics in it.I have a good experience in backend with node,Mongo and Express.
 
 
 ![Web 1920 – 1](https://user-images.githubusercontent.com/43717493/88258617-2abc2200-ccde-11ea-9c69-dd72f0458dc4.png)
 
-- 🔭 I’m currently working on Covid19 Tracker
-- 🌱 I’m currently learning Vue
-- 👯 I’m looking to collaborate on Kaggle
-- 🤔 I’m looking for help with REST API
-- 💬 Ask me about Data Science and Deep Learning
-- 📫 How to reach me: Through Linkedln and Github
-- 😄 Pronouns: Bunty
-- ⚡ Fun fact: Love to sleep and eat in empty time 😁
 
 ![visitors](https://komarev.com/ghpvc/?username=23subbhashit)
 
