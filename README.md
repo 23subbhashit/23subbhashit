@@ -4,6 +4,8 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS institute of technology and management🚀.I am a Data Science enthusiast 👨‍💻 and love to learn different topics in it.I have a good experience in backend with node,Mongo and Express.
 
+**I work on almost anything i like.**
+
 
 
 
