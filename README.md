@@ -23,7 +23,13 @@ My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS i
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
 ## **My Social Media Links :**
-[![Twitter Badge](https://img.shields.io/badge/-SMukhkherjee-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SMukhkherjee)](https://twitter.com/SMukhkherjee) [![Linkedin Badge](https://img.shields.io/badge/-subbhashitmukherjee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=subbhashit-mukherjee)](https://www.linkedin.com/in/subbhashit-mukherjee-71849a148/) [![Gmail Badge](https://img.shields.io/badge/-subbhashitmukherjee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:subbhashitmukherjee@gmail.com)](mailto:subbhashitmukherjee@gmail.com)
+[<img align="left" alt="medium" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SMukhkherjee)
+[<img align="left" alt="gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:subbhashitmukherjee@gmail.com)
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/subbhashit-mukherjee-71849a148/)
+[<img align="left" alt="Dev.to" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/23subbhashit)
+[<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/12216929/subbhashit-mukherjee)
+
+
 
 
 
@@ -36,8 +42,4 @@ My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS i
 </a>
 
 
-### **My DEV profile :**
 
-<a href="https://dev.to/23subbhashit">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Subbhashit Mukherjee's DEV Profile" height="30" width="30">
-</a>
