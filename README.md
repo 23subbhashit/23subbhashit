@@ -28,9 +28,12 @@ My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS i
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/subbhashit-mukherjee-71849a148/)
 [<img align="left" alt="Dev.to" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/23subbhashit)
 [<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/12216929/subbhashit-mukherjee)
-[![codecov.io Code Coverage](https://img.shields.io/static/v1?label=Hackerearth&message=Profile&color=green)](https://www.hackerearth.com/@subbhashit1)
-[![codecov.io Code Coverage](https://img.shields.io/static/v1?label=HackerRank&message=Profile&color=black)](https://www.hackerrank.com/subbhashitmukhe1)
-[![codecov.io Code Coverage](https://img.shields.io/static/v1?label=Codechef&message=Profile&color=orange)](https://www.codechef.com/users/subbhahsit)
+<br/>
+## **My Coding Platform Links :**
+
+[<img align="left" alt="stackoverflow" src="https://img.shields.io/static/v1?label=Hackerearth&message=Profile&color=green" />](https://www.hackerearth.com/@subbhashit1)
+[<img align="left" alt="Dev.to" src="https://img.shields.io/static/v1?label=HackerRank&message=Profile&color=black" />](https://www.hackerrank.com/subbhashitmukhe1)
+[<img align="left" alt="Dev.to" src="https://img.shields.io/static/v1?label=Codechef&message=Profile&color=orange" />](https://www.codechef.com/users/subbhahsit)
 
 
 <br/>
