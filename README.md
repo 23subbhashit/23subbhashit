@@ -29,9 +29,11 @@ My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS i
 [<img align="left" alt="Dev.to" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/23subbhashit)
 [<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/12216929/subbhashit-mukherjee)
 
-
+[![codecov.io Code Coverage](https://img.shields.io/static/v1?label=Hackerearth&message=Profile&color=red)](https://www.hackerearth.com/@subbhashit1)
 
 <br/>
+
+
 
 ## **My Status :**
 [![23subbhashit github stats](https://github-readme-stats.vercel.app/api?username=23subbhashit&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
