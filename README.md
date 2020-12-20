@@ -1,9 +1,8 @@
-## <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="24px">
+## <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px"> Kon'nichiwa sekai!&nbsp;<img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="24px">
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS institute of technology and management🚀.I am a Data Science enthusiast 👨‍💻 and love to learn different topics in it.I have a good experience in backend with Django and in frontend with VueJS. 
-
 
 
 
@@ -22,7 +21,6 @@ My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS i
 
 ## **My Social Media Links :**
 [<img align="left" alt="medium" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SMukhkherjee)
-[<img align="left" alt="gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:subbhashitmukherjee@gmail.com)
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/subbhashit-mukherjee-71849a148/)
 [<img align="left" alt="Dev.to" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/23subbhashit)
 [<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/12216929/subbhashit-mukherjee)
