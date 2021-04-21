@@ -37,12 +37,10 @@ My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS i
 
 
 ## **My Status :**
-[![23subbhashit github stats](https://github-readme-stats.vercel.app/api?username=23subbhashit&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/23subbhashit/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23subbhashit&theme=radical&hide=glsl,python" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=23subbhashit&show_icons=true&theme=merko&line_height=21" alt="23subbhashit" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23subbhashit&theme=radical&hide=roff,java,batchfile&layout=compact&langs_count=10" />
 </a>
-
 
 
