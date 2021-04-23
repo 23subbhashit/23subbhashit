@@ -25,7 +25,7 @@ My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS i
 <table>
   <thead align="center">
     <tr border: none;>
-      <td></td>
+      <td><b>🔗Links</b></td>
       <td></td>
       <td></td>
       <td></td>
@@ -34,7 +34,7 @@ My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS i
   </thead>
   <tbody>
     <tr>
-      <td><b>Social Media Links</b></td>
+      <td><b> ⏏ Social Media</b></td>
       <td>
         <a href="https://twitter.com/SMukhkherjee">
             <img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
@@ -57,7 +57,7 @@ My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS i
       </td>
     </tr>
 	 <tr>
-      <td><b>Coding Platfrom links</b></td>
+      <td><b> 👨‍💻 Coding Platfrom</b></td>
       <td>
         <a href="https://www.hackerearth.com/@subbhashit1">
             <img align="left" alt="hackerearth" src="https://img.shields.io/static/v1?label=Hackerearth&message=Profile&color=green" />
