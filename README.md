@@ -46,8 +46,31 @@ My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS i
       </a>
       </td>
       <td>
-        <a href="https://dev.to/23subbhashit">
-            <img align="left" alt="Dev.to" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
+        <a href="https://www.facebook.com/subbhashit.mukherjee/">
+            <img align="left" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.instagram.com/subbhashit_2001/">
+            <img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+ <tr>
+      <td><b> 👨‍💻 Programming Platforms</b></td>
+      <td>
+        <a href="https://www.hackerearth.com/@subbhashit1">
+            <img align="left" alt="hackerearth" src="https://img.shields.io/static/v1?label=Hackerearth&message=Profile&color=green&style=for-the-badge&logo=hackerearth" />
+        </a>
+      </td>
+      <td>
+      <a href="https://www.hackerrank.com/subbhashitmukhe1">
+            <img align="left" alt="hackerrank" src="https://img.shields.io/static/v1?label=HackerRank&message=Profile&color=red&style=for-the-badge&logo=hackerrank" />
+      </a>
+      </td>
+      <td>
+        <a href="https://www.codechef.com/users/subbhahsit">
+            <img align="left" alt="codechef" src="https://img.shields.io/static/v1?label=Codechef&message=Profile&color=yellow&style=for-the-badge&logo=codechef" />
         </a>
       </td>
       <td>
@@ -56,27 +79,43 @@ My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS i
         </a>
       </td>
     </tr>
-	 <tr>
-      <td><b> 👨‍💻 Coding Platfrom</b></td>
+	   <tr>
+      <td><b> 👨‍💻 Machine Learning and Data Science</b></td>
       <td>
-        <a href="https://www.hackerearth.com/@subbhashit1">
-            <img align="left" alt="hackerearth" src="https://img.shields.io/static/v1?label=Hackerearth&message=Profile&color=green" />
+        <a href="https://www.kaggle.com/subbhashit">
+            <img align="left" alt="hackerearth" src="https://img.shields.io/static/v1?label=Kaggle&message=Profile&color=blue&style=for-the-badge&logo=kaggle" />
         </a>
       </td>
       <td>
-      <a href="https://www.hackerrank.com/subbhashitmukhe1">
-            <img align="left" alt="hackerrank" src="https://img.shields.io/static/v1?label=HackerRank&message=Profile&color=red" />
-      </a>
-      </td>
-      <td>
-        <a href="https://www.codechef.com/users/subbhahsit">
-            <img align="left" alt="Dev.to" src="https://img.shields.io/static/v1?label=Codechef&message=Profile&color=yellow" />
+      <a href="https://www.hackerearth.com/@subbhashit1">
+            <img align="left" alt="hackerearth" src="https://img.shields.io/static/v1?label=Hackerearth&message=Profile&color=green&style=for-the-badge&logo=hackerearth" />
         </a>
       </td>
       <td>
         -
       </td>
+      <td>
+        -
+      </td>
     </tr>
+	  <tr>
+      <td><b> 👨‍💻 Vlogging</b></td>
+      <td>
+        <a href="https://dev.to/23subbhashit">
+            <img align="left" alt="Dev.to" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
+        </a>
+      </td>
+      <td>
+     	-
+      </td>
+      <td>
+        -
+      </td>
+      <td>
+        -
+      </td>
+    </tr>
+	
   </tbody>
 </table>
 
