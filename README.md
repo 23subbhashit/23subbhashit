@@ -19,22 +19,71 @@ My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS i
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
-## **My Social Media Links :**
-[<img align="left" alt="medium" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SMukhkherjee)
-[<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/subbhashit-mukherjee-71849a148/)
-[<img align="left" alt="Dev.to" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/23subbhashit)
-[<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/12216929/subbhashit-mukherjee)
+## **Links :**
+
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Social Media Links</b></td>
+      <td>
+        <a href="https://twitter.com/SMukhkherjee">
+            <img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+        </a>
+      </td>
+      <td>
+      <a href="https://www.linkedin.com/in/subbhashit-mukherjee-71849a148/">
+            <img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      </td>
+      <td>
+        <a href="https://dev.to/23subbhashit">
+            <img align="left" alt="Dev.to" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
+        </a>
+      </td>
+      <td>
+        <a href="https://stackoverflow.com/users/12216929/subbhashit-mukherjee">
+            <img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />
+        </a>
+      </td>
+    </tr>
+	 <tr>
+      <td><b>Coding Platfrom links</b></td>
+      <td>
+        <a href="https://www.hackerearth.com/@subbhashit1">
+            <img align="left" alt="hackerearth" src="https://img.shields.io/static/v1?label=Hackerearth&message=Profile&color=green" />
+        </a>
+      </td>
+      <td>
+      <a href="https://www.hackerrank.com/subbhashitmukhe1">
+            <img align="left" alt="hackerrank" src="https://img.shields.io/static/v1?label=HackerRank&message=Profile&color=black" />
+      </a>
+      </td>
+      <td>
+        <a href="https://www.codechef.com/users/subbhahsit">
+            <img align="left" alt="Dev.to" src="https://img.shields.io/static/v1?label=Codechef&message=Profile&color=orange" />
+        </a>
+      </td>
+      <td>
+        -
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
 <br/>
-## **My Coding Platform Links :**
-
-[<img align="left" alt="stackoverflow" src="https://img.shields.io/static/v1?label=Hackerearth&message=Profile&color=green" />](https://www.hackerearth.com/@subbhashit1)
-[<img align="left" alt="Dev.to" src="https://img.shields.io/static/v1?label=HackerRank&message=Profile&color=black" />](https://www.hackerrank.com/subbhashitmukhe1)
-[<img align="left" alt="Dev.to" src="https://img.shields.io/static/v1?label=Codechef&message=Profile&color=orange" />](https://www.codechef.com/users/subbhahsit)
-
-
-<br/>
-
-
 
 ## **My Status :**
 
