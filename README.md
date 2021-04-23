@@ -65,12 +65,12 @@ My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS i
       </td>
       <td>
       <a href="https://www.hackerrank.com/subbhashitmukhe1">
-            <img align="left" alt="hackerrank" src="https://img.shields.io/static/v1?label=HackerRank&message=Profile&color=black" />
+            <img align="left" alt="hackerrank" src="https://img.shields.io/static/v1?label=HackerRank&message=Profile&color=red" />
       </a>
       </td>
       <td>
         <a href="https://www.codechef.com/users/subbhahsit">
-            <img align="left" alt="Dev.to" src="https://img.shields.io/static/v1?label=Codechef&message=Profile&color=orange" />
+            <img align="left" alt="Dev.to" src="https://img.shields.io/static/v1?label=Codechef&message=Profile&color=yellow" />
         </a>
       </td>
       <td>
