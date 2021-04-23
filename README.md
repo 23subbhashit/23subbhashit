@@ -80,7 +80,7 @@ My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS i
       </td>
     </tr>
 	   <tr>
-      <td><b> 👨‍💻 Machine Learning and Data Science</b></td>
+      <td><b> 📈 Machine Learning and Data Science</b></td>
       <td>
         <a href="https://www.kaggle.com/subbhashit">
             <img align="left" alt="hackerearth" src="https://img.shields.io/static/v1?label=Kaggle&message=Profile&color=blue&style=for-the-badge&logo=kaggle" />
@@ -99,7 +99,7 @@ My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS i
       </td>
     </tr>
 	  <tr>
-      <td><b> 👨‍💻 Vlogging</b></td>
+      <td><b> 📖 Vlogging</b></td>
       <td>
         <a href="https://dev.to/23subbhashit">
             <img align="left" alt="Dev.to" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
