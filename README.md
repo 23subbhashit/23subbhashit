@@ -37,22 +37,22 @@ My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS i
       <td><b> ⏏ Social Media</b></td>
       <td>
         <a href="https://twitter.com/SMukhkherjee">
-            <img align="left" height="29" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+            <img align="left"  alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
         </a>
       </td>
       <td>
       <a href="https://www.linkedin.com/in/subbhashit-mukherjee-71849a148/">
-            <img align="left" height="29" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+            <img align="left"  alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       </td>
       <td>
         <a href="https://www.facebook.com/subbhashit.mukherjee/">
-            <img align="left" height="29" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+            <img align="left"  alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
         </a>
       </td>
       <td>
         <a href="https://www.instagram.com/subbhashit_2001/">
-            <img align="left"  height="29" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+            <img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
         </a>
       </td>
     </tr>
@@ -60,22 +60,22 @@ My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS i
       <td><b> 👨‍💻 Programming Platforms</b></td>
       <td>
         <a href="https://www.hackerearth.com/@subbhashit1">
-            <img align="left" height="29" alt="hackerearth" src="https://img.shields.io/static/v1?label=Hackerearth&message=Profile&color=green&style=for-the-badge&logo=hackerearth" />
+            <img align="left"  alt="hackerearth" src="https://img.shields.io/static/v1?label=&message=HackerEarth&color=informational&style=for-the-badge&logo=hackerearth" />
         </a>
       </td>
       <td>
       <a href="https://www.hackerrank.com/subbhashitmukhe1">
-            <img align="left" height="29" alt="hackerrank" src="https://img.shields.io/static/v1?label=HackerRank&message=Profile&color=red&style=for-the-badge&logo=hackerrank" />
+            <img align="left"  alt="hackerrank" src="https://img.shields.io/static/v1?label=&message=HackerRank&color=green&style=for-the-badge&logo=hackerrank" />
       </a>
       </td>
       <td>
         <a href="https://www.codechef.com/users/subbhahsit">
-            <img align="left" height="29" alt="codechef" src="https://img.shields.io/static/v1?label=Codechef&message=Profile&color=yellow&style=for-the-badge&logo=codechef" />
+            <img align="left"  alt="codechef" src="https://img.shields.io/static/v1?label=&message=Codechef&color=orange&style=for-the-badge&logo=codechef" />
         </a>
       </td>
       <td>
         <a href="https://stackoverflow.com/users/12216929/subbhashit-mukherjee">
-            <img align="left" height="29" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />
+            <img align="left"  alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />
         </a>
       </td>
     </tr>
@@ -83,12 +83,12 @@ My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS i
       <td><b> 📈 Machine Learning and Data Science</b></td>
       <td>
         <a href="https://www.kaggle.com/subbhashit">
-            <img align="left" height="29" alt="hackerearth" src="https://img.shields.io/static/v1?label=Kaggle&message=Profile&color=blue&style=for-the-badge&logo=kaggle" />
+            <img align="left"  alt="hackerearth" src="https://img.shields.io/static/v1?label=&message=Kaggle&color=blue&style=for-the-badge&logo=kaggle" />
         </a>
       </td>
       <td>
       <a href="https://www.hackerearth.com/@subbhashit1">
-            <img align="left" height="29" alt="hackerearth" src="https://img.shields.io/static/v1?label=Hackerearth&message=Profile&color=green&style=for-the-badge&logo=hackerearth" />
+            <img align="left"  alt="hackerearth" src="https://img.shields.io/static/v1?label=&message=HackerEarth&color=informational&style=for-the-badge&logo=hackerearth" />
         </a>
       </td>
       <td>
@@ -102,12 +102,12 @@ My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS i
       <td><b> 📖 Vlogging</b></td>
       <td>
         <a href="https://dev.to/23subbhashit">
-            <img align="left"  height="29" alt="Dev.to" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
+            <img align="left"   alt="Dev.to" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
         </a>
       </td>
       <td>
      	<a href="https://medium.com/@subbhashitmukherjee">
-            <img align="left"  height="29" alt="Dev.to" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+            <img align="left"  alt="Dev.to" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
         </a>
       </td>
       <td>
