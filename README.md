@@ -1,12 +1,11 @@
-## <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px"> Kon'nichiwa sekai!&nbsp;<img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="24px">
-
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS institute of technology and management🚀.I am a Data Science enthusiast 👨‍💻 and love to learn different topics in it.I have a good experience in backend with Django and in frontend with VueJS. 
+## <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px"> Kon'nichiwa sekai!&nbsp;
 
 
 
-![visitors](https://komarev.com/ghpvc/?username=23subbhashit)
+
+
+
+
 
 ## **Languages and Tools :**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -133,4 +132,6 @@ My name is Subbhashit Mukherjee and i am currently completing my B.E. from BMS i
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23subbhashit&theme=radical&hide=roff,java,batchfile&layout=compact&langs_count=10" />
 </a>
 
+
+![visitors](https://komarev.com/ghpvc/?username=23subbhashit)
 
