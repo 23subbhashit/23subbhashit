@@ -1,9 +1,27 @@
-## <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29"> Kon'nichiwa sekai!&nbsp;
+## Kon'nichiwa sekai!&nbsp;<img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29"> 
 
 
-
-
-
+## **Who Am I?**
+```
+class WhoAmI:
+	user = 'Subbhashit Mukherjee'
+   	current_edu = "BMSIT"
+   	hobbies = [
+   			'Playing Carrom',
+   			'Watching Anime',
+   			'Reading Manga'
+   		]
+   
+   def getCity():
+   	return Varanasi_India()
+   
+   def Ambitions():
+   	LearnR()
+   	CreateMyOwnTravelDiaries()
+   	WorldTour()
+   	GetIntoMAANG()
+```
+![visitors](https://komarev.com/ghpvc/?username=23subbhashit)
 
 
 
@@ -125,6 +143,8 @@
 
 <br/>
 
+
+
 ## **My Status :**
 
 <a href="https://github.com/23subbhashit/github-readme-stats">
@@ -133,5 +153,5 @@
 </a>
 
 
-![visitors](https://komarev.com/ghpvc/?username=23subbhashit)
+
 
