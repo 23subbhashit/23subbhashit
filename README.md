@@ -1,4 +1,4 @@
-## <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px"> Kon'nichiwa sekai!&nbsp;
+## <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29"> Kon'nichiwa sekai!&nbsp;
 
 
 
