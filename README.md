@@ -53,12 +53,12 @@ class WhoAmI:
     <tr>
       <td><b> ⏏ Social Media</b></td>
       <td>
-        <a href="https://twitter.com/SMukhkherjee">
+        <a href="#">
             <img align="left"  alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
         </a>
       </td>
       <td>
-      <a href="https://www.linkedin.com/in/subbhashit-mukherjee-71849a148/">
+      <a href="https://www.linkedin.com/in/subbhashit-mukherjee-137174143/">
             <img align="left"  alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       </td>
@@ -68,7 +68,7 @@ class WhoAmI:
         </a>
       </td>
       <td>
-        <a href="https://www.instagram.com/subbhashit_2001/">
+        <a href="#">
             <img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
         </a>
       </td>
